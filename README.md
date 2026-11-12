@@ -5,7 +5,7 @@ FastAPI service that predicts the presence of heart disease from the
 [Heart Disease dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset),
 containerized with Docker and deployable to Render.
 
-**Live URL:** `https://<your-service>.onrender.com`  (docs at `/docs`)
+**Live URL:** `https://heart-disease-api-h818.onrender.com`  (docs at `/docs`)
 
 ## Project structure
 
