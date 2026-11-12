@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heart Disease Prediction API
 
 FastAPI service that predicts the presence of heart disease from the
@@ -72,3 +73,7 @@ Note: the free tier sleeps after inactivity, so the first request may take ~30-6
 ## Disclaimer
 
 Educational project only; not for medical use.
+=======
+# heart-disease-api
+heart-disease-api
+>>>>>>> d6c7018b81e0f56db999be2a2df953aa22b0b347
