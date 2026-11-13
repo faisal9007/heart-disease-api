@@ -1,0 +1,12 @@
+[project]
+name = "heart-disease-api"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi>=0.110",
+    "joblib>=1.3",
+    "numpy>=1.26",
+    "pandas>=2.0",
+    "scikit-learn==1.9.0",
+    "uvicorn[standard]>=0.29",
+]
